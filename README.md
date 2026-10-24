@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://validate.mk"><img src="assets/validate-logo.svg" alt="Official Validate logo" width="420" /></a>
+<a href="https://validate.mk"><img src="assets/validate-logo.png" alt="Official Validate logo" width="420" /></a>
 
 <br/><br/>
 
