@@ -14,6 +14,8 @@
 
 ### Од идеи до вистински одлуки.
 
+[**Македонски — целосна презентација**](README.mk.md)
+
 **Surveys · Market Research · Concept Validation · Response Analysis · Evidence-Based Decisions**
 
 </div>
