@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <a href="https://validate.mk"><img src="assets/validate-logo.png" alt="Official Validate logo" width="420" /></a>
