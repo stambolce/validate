@@ -1,32 +1,22 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://validate.mk"><img src="assets/validate-logo.png" alt="Official Validate logo" width="420" /></a>
+# Validate
 
-<br/><br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://validate.mk"><img src="assets/validate-hero.svg" alt="Validate — from ideas to real decisions, surveys and research insights" width="100%" /></a>
+<img src="assets/validate-logo.png" alt="Validate — ürün görsel sunumu" width="420" />
 
-<br/>
+<img src="assets/validate-hero.svg" alt="Validate — ürün görsel sunumu" width="100%" />
+
+**Fikirlerden gerçek kararlara.**
 
 [![Official Website](https://img.shields.io/badge/VALIDATE.MK-OFFICIAL_WEBSITE-167AFF?style=for-the-badge)](https://validate.mk)
 [![Research](https://img.shields.io/badge/START-RESEARCH-17191D?style=for-the-badge)](https://validate.mk)
 [![Company](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-167AFF?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-
-
-### Fikirlerden gerçek kararlara.
-
-**Fikirlerden gerçek kararlara.**
+**LIVE**
 
 </div>
-
----
 
 ## Karar vermeden araştırın
 
@@ -74,7 +64,7 @@ Amaç ölçülebilir yanıt, anlaşılır sonuç ve karar temelidir. Soruları h
 |---|---|
 | Ürün | Validate |
 | Resmî site | [validate.mk](https://validate.mk) |
-| Kategori | Anket, pazar araştırması ve fikir doğrulama |
+| Kategori | Anket, araştırma ve karar doğrulama |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |
